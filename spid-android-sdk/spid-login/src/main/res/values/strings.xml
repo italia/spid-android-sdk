@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">spid-login</string>
+    <string name="login_with_spid">Login with SPID</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spid-android-sdk.iml" filepath="$PROJECT_DIR$/spid-android-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spid-login/spid-login.iml" filepath="$PROJECT_DIR$/spid-login/spid-login.iml" />
+    </modules>
+  </component>
+</project>
