@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_72190a363dda8c197c36af732798e78f6c76f3b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/f27b58ca4815cf2a8d8bf38a6dd7d962f3eb0704/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_968dd5fb144ce716250c1408761a8b2dd0cb4381/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_904a2d1273466b69872f0706aa54ea6015a62587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/45eba310da0da356cb0b1da167563890a8bd10ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae65fb46de8ec2ee8398fe488f4a94655f0964d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/e3f35c44bf9221aada42b205055ab672f13def75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8266645d3bf07ecf7f7a4e98a0242d61284abb3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/d30ffe4365ddacb4975a0d3855096ed91f21fa26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db36221da375d50f86880bc9afe4004012772ecc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/9eb74964cf391c3aa57e9277f997c68b9b3a8a81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b12acbccf2ffeb17745c917f4566912174c2033/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_413b092aaa780fa5288e658930a0f5cc72667a9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/9221acf01503de76e5809942be4b91819bfaff2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e556dfdf4016ea635d6e92ff95d0ae6a3d9f3e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/f2bbc18f97b54a44aa1671bb602cc271e6a66325/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cbe73924d15f9a52356aadc87f48f1e503d6257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/56d45de1c1cb5f4070244fad2d0b9eef8ac95736/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84335edcf9792d908ffc2723f0f642d6da57b77f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/09ef3c32b0b173f9b7bd79013a920a4df0110637/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64a72e7b8684cec94257c4d4caef12dd3447a844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/ee469165e286d73dcaee6411fd530dbf209a88ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f845ba5a7299125c673a2f72f3e201cef73ed15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/.android/build-cache/59e546375f77b8890b810a569874480d456c43c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d65f4152dd5d63fd7e840b9409ce85f0631f8779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d0b23e202e53dc84cee617b0173ed0ac0e334f2">
+        <dex dex="/home/matteo/italia/spid-android-sdk/spid-android-sdk/Sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2a0a53352f815c0c196288cc5bcd5d8c5639b0e6/classes.dex" />
+    </item>
+
+</items>
