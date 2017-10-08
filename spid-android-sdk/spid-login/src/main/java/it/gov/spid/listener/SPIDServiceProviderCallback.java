@@ -5,4 +5,6 @@ package it.gov.spid.listener;
  */
 
 public interface SPIDServiceProviderCallback {
+    public void onServiceProviderResponse(String response);
+    public void onServiceProviderError(String response);
 }

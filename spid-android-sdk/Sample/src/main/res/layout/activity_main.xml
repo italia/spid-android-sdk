@@ -6,6 +6,7 @@
     tools:context="it.gov.spid.sample.MainActivity">
 
     <it.gov.spid.widget.LoginButton
+        android:id="@+id/loginButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>

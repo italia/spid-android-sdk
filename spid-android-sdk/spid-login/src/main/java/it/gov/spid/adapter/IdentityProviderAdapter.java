@@ -49,7 +49,7 @@ public class IdentityProviderAdapter extends RecyclerView.Adapter<IdentityProvid
         private ImageView imageView;
         private IdentityProviders identityProvider;
 
-        public ChatViewHolder(View itemView) {
+        ChatViewHolder(View itemView) {
             super(itemView);
             itemView.setOnClickListener(this);
             this.imageView = itemView.findViewById(R.id.authProviderImage);

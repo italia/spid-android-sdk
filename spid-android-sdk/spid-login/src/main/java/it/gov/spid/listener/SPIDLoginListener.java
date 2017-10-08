@@ -5,6 +5,6 @@ package it.gov.spid.listener;
  */
 
 public interface SPIDLoginListener {
-    void onSuccess();
+    void onSuccess(String response);
     void onFailure(String message);
 }

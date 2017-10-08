@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">spid-login</string>
     <string name="login_with_spid">Entra con SPID</string>
+    <string name="auth_provider_dialog_title">Entra con:</string>
+    <string name="loading">Caricamento in corso</string>
 </resources>
