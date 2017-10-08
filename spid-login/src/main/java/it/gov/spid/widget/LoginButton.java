@@ -177,7 +177,8 @@ public class LoginButton extends android.support.v7.widget.AppCompatButton {
                 return;
             }
 
-            final MaterialDialog dialog = new MaterialDialog.Builder(LoginButton.this.getContext()).build();
+            final MaterialDialog dialog = new MaterialDialog.Builder(LoginButton.this.getContext()).title(R.string.loading).progress(true, 0).show();
+
             spidServiceProvider.sendIdentityProviderLoginExchangeResponse(new SPIDServiceProviderCallback() {
                 @Override
                 public void onServiceProviderResponse(String response) {
