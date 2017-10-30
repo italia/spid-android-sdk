@@ -1,26 +1,27 @@
-# SPID authentication library for Android
+# SPID Android SDK
 
-Con l'SDK Spid per Android si consente agli sviluppatori di integrare con poco sforzo l'autenticazione alla propria app con il protocollo SPID.
-Per approfondimenti tecnici sull'argomento rimandiamo a http://spid-regole-tecniche.readthedocs.io/en/latest/
+Questo SDK consente agli sviluppatori una rapida integrazione dell'autenticazione basata sul protocollo SPID nella propria applicazione mobile su piattaforma Android.
+Il progetto è stato realizzato dal team **Need for SPID**.
 
-Nella cartella "app" troviamo...
+## Struttura del repository
 
-Nella cartella "timspid" troviamo...
+Il repository risulta così strutturato:
+* **mobile**: componente client-side, a sua volta è suddivisa in
+  * **app**: app mobile di test
+  * **timspid**: libreria da includere su nuove app mobili
+* **serviceprovider**: componente server-side per svolge la funzionalità di Service Provider
 
-## Come inserire l'autenticazione SPID
+## Ambiente di Staging
 
-Come utilizzare l'sdk 
+Per consentire il testing del dell'integrazione SPID senza la necessità di impiegare delle identità SPID reali, è stato completato il delivery di un ambiente di test su piattaforma Docker composto dai seguenti elementi architetturali:
+* **Identity Provider AgID**: realizzato impiegando i container Docker condivisi da AgID
+  * **Back-Office**: accessibile all'URL https://idpagid.spidtest.nuvolaitaliana.it:8080/#/
+  * **Identity Provider**: accessibile all'URL https://idpagid.spidtest.nuvolaitaliana.it:8080/#/ basato su WSO2-is, su cui è stata completata la registrazione del Service Provider.
+* **Service Provider**: accessibile all'URL http://spagid.spidtest.nuvolaitaliana.it:8080/
 
-### 4. Modifica del file manifest
+## Informazioni
 
-### 8. Aggiunta del pulsante Accedi di SPID
-Il modo più semplice per aggiungere SPID Login alla tua app Android è usare LoginButton dell'SDK.
-
-### 9. Registrazione di una callback
-### 10. Verifica dello stato d'accesso
-
-
-
-## Testare l'autenticazione
-Testare il giro con l'app di esempio.
-
+Per la documentazione tecnica su SPID si può far riferimento ai seguenti URI redatti da AgID:
+* https://developers.italia.it/it/spid/
+* http://spid-regole-tecniche.readthedocs.io/en/latest/index.html
+ 
