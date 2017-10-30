@@ -1,6 +1,7 @@
 # SPID Android SDK
 
 Questo SDK consente agli sviluppatori una rapida integrazione dell'autenticazione basata sul protocollo SPID nella propria applicazione mobile su piattaforma Android.
+Il progetto è stato realizzato dal team **Need for SPID**.
 
 ## Struttura del repository
 Il repository risulta così strutturato:
