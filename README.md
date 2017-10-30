@@ -21,7 +21,7 @@ Per consentire il testing del dell'integrazione SPID senza la necessità di impi
 
 ## Informazioni
 
-Per la documentazione tecnica su SPID si può far riferimento ai seguenti URI redatti da AgID:
-* https://developers.italia.it/it/spid/
-* http://spid-regole-tecniche.readthedocs.io/en/latest/index.html
+Per la documentazione tecnica su SPID si può far riferimento ai seguenti URI:
+* https://developers.italia.it/it/spid/ : portale dedicato agli sviluppatori da cui risultano accessibili tutti i repository del progetto SPID
+* http://spid-regole-tecniche.readthedocs.io/en/latest/index.html : contenente la documentazione tecnica
  
