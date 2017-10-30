@@ -15,7 +15,7 @@ Per consentire il testing del dell'integrazione SPID senza la necessità di impi
 * **Identity Provider AgID**: realizzato impiegando i container Docker condivisi da AgID
   * **Back-Office**: accessibile all'URL https://idpagid.spidtest.nuvolaitaliana.it:8080/#/
   * **Identity Provider**: accessibile all'URL https://idpagid.spidtest.nuvolaitaliana.it:8080/#/ basato su WSO2-is, su cui è stata completata la registrazione del Service Provider.
-* **Service Provider**: accessibile all'URL http://spagid.spidtest.nuvolaitaliana.it:8080/
+* **Service Provider**: accessibile all'URL http://spagid.spidtest.nuvolaitaliana.it:8080/spid/spidLogin.jsp
 
 ## Informazioni
 
