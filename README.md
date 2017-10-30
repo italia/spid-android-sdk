@@ -6,9 +6,7 @@ Il progetto è stato realizzato dal team **Need for SPID**.
 ## Struttura del repository
 
 Il repository risulta così strutturato:
-* **mobile**: componente client-side, a sua volta è suddivisa in
-  * **app**: app mobile di test
-  * **timspid**: libreria da includere su nuove app mobili
+* **app**: componente client-side contenente l'app mobile
 * **serviceprovider**: componente server-side per svolge la funzionalità di Service Provider
 
 ## Ambiente di Staging
