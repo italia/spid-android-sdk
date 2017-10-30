@@ -20,5 +20,5 @@ Per consentire delle sessioni di test applicativi è stato completato il deliver
 ## Informazioni
 Per la documentazione tecnica su SPID si può far riferimento ai seguenti URI redatti da AgID:
 * https://developers.italia.it/it/spid/
-* spid-regole-tecniche.readthedocs.io/en/latest/index.html
+* http://spid-regole-tecniche.readthedocs.io/en/latest/index.html
   
